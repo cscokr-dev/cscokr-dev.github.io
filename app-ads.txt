@@ -1,9 +1,3 @@
-# app-ads.txt for Mine Gallery
-# Publish this file at the root of the developer website listed in the store listing:
-#   https://<developer-domain>/app-ads.txt
-# Replace the template line below with the lines each network gives you, then delete these comments.
-#
-# AdMob  (AdMob console > Apps > View all apps > app-ads.txt > "How to set up app-ads.txt"):
-#   google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
-#
-# Unity LevelPlay / Unity Ads (LevelPlay console > Setup > app-ads.txt): paste the full generated list here.
+# app-ads.txt for Mine Gallery (https://cscokr-dev.github.io/app-ads.txt)
+# Unity LevelPlay / Unity Ads lines are added here once that account is set up.
+google.com, pub-7048873716665940, DIRECT, f08c47fec0942fa0
